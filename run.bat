@@ -1,2 +1,2 @@
-mvn exec:java -Dexec.mainClass="com.thoughtworks.galaxyguide.client.MainClient"
+mvn exec:java -Dexec.mainClass="com.practise.galaxyguide.client.MainClient"
 pause

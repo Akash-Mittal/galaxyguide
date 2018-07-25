@@ -84,7 +84,7 @@ I have no idea what you are talking about
 * How to Run : 
 				* *  Build from Step1 As all the classes files are removed during submission
 				* *  then type :
-				* *  mvn exec:java -Dexec.mainClass="com.thoughtworks.galaxyguide.client.MainClient"
+				* *  mvn exec:java -Dexec.mainClass="com.practise.galaxyguide.client.MainClient"
 					Or Can also rename *.bat.txt to *.bat on rootdirectory.
 * System Requirment : Any Box with Java >=7 and Maven > 3.1.1
 

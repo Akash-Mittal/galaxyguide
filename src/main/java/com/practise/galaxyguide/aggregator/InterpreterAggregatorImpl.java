@@ -1,6 +1,6 @@
 /*
 
- * ThoughtWorks Assignment - Confidential
+ * Practice Assignment - Confidential
  * 
  * Author - Akash  Mittal
  * Version - See Maven Pom 1.0.0 Snapshot
