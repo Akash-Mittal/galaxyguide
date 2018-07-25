@@ -80,27 +80,27 @@ I have no idea what you are talking about
 ## About the Solutions.
 
 
-1.) How to Build : type mvn clean install in the root directiory
-2.) How to Run : 
-				Build from Step1 As all the classes files are removed during submission
-				then type :
-				mvn exec:java -Dexec.mainClass="com.thoughtworks.galaxyguide.client.MainClient"
-				Or Can also rename *.bat.txt to *.bat on rootdirectory.
-3.) System Requirment : Any Box with Java >=7 and Maven > 3.1.1
+* How to Build : type mvn clean install in the root directiory
+* How to Run : 
+				* *  Build from Step1 As all the classes files are removed during submission
+				* *  then type :
+				* *  mvn exec:java -Dexec.mainClass="com.thoughtworks.galaxyguide.client.MainClient"
+					Or Can also rename *.bat.txt to *.bat on rootdirectory.
+* System Requirment : Any Box with Java >=7 and Maven > 3.1.1
 
-Assumption:
+### Assumption:
 
-Code has been unit tested with Junit3.
-The Default output is SOP.
-No Logging framework was used.
-All input is in LowerCase - (This could have been done programmitaclly)
-The input for string Credits is credit
+* Code has been unit tested with Junit3.
+* The Default output is SOP.
+* No Logging framework was used.
+* All input is in LowerCase - (This could have been done programmitaclly)
+* The input for string Credits is credit
 
 
-Key Components - Based on the Flow:
-Validator - Strategy and Abstract Factory and Template
-Matcher - Strategy
-Domains - 
-Interpreter - Interpreter and Factory 
-Aggregator
-Helper - Command based
+### Key Components - Based on the Flow:
+* Validator - Strategy and Abstract Factory and Template
+*  Matcher - Strategy
+* Domains - 
+* Interpreter - Interpreter and Factory 
+* Aggregator
+* Helper - Command based
