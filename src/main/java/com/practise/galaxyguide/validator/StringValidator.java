@@ -23,7 +23,7 @@ public abstract class StringValidator extends ValidationStrategy {
     }
 
     public StringValidator() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     StringValidator(String input) {

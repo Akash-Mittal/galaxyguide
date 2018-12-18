@@ -24,7 +24,7 @@ public abstract class MatchingStrategy {
     }
 
     public MatchingStrategy() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     MatchingStrategy(String input) {

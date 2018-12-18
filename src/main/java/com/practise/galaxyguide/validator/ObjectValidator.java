@@ -23,7 +23,7 @@ public abstract class ObjectValidator extends ValidationStrategy {
     }
 
     public ObjectValidator() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     ObjectValidator(Object input) {

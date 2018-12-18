@@ -15,7 +15,7 @@ package com.practise.galaxyguide.matcher;
 public class RomanAndForeignLiteralMatchingStrategy extends MatchingStrategy {
 
     public RomanAndForeignLiteralMatchingStrategy() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     public RomanAndForeignLiteralMatchingStrategy(String input) {

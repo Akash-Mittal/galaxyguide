@@ -15,7 +15,7 @@ package com.practise.galaxyguide.validator;
 public class CommonValidator extends StringValidator {
 
     public CommonValidator() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     public CommonValidator(String input) {

@@ -15,7 +15,7 @@ package com.practise.galaxyguide.matcher;
 public class MuchQuestionMatchingStrategy extends MatchingStrategy {
 
     public MuchQuestionMatchingStrategy() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     public MuchQuestionMatchingStrategy(String input) {

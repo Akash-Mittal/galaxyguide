@@ -25,7 +25,7 @@ public class RomanAndForeignLiteral implements BaseDomain {
     }
 
     public RomanAndForeignLiteral() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     public RomanNumeralLiteral getRomanNumeralLiteral() {

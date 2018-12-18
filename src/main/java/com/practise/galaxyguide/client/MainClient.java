@@ -63,7 +63,7 @@ public class MainClient {
     private InterpreterAggregator aggregator;
 
     public MainClient() {
-        // TODO Auto-generated constructor stub
+        // 
         objectValidator = new ListValidator();
         mapping = new ArrayList<BaseDomain>();
         credits = new ArrayList<BaseDomain>();

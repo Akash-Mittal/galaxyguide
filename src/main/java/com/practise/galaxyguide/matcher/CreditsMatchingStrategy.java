@@ -15,7 +15,7 @@ package com.practise.galaxyguide.matcher;
 public class CreditsMatchingStrategy extends MatchingStrategy {
 
     public CreditsMatchingStrategy() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     public CreditsMatchingStrategy(String input) {

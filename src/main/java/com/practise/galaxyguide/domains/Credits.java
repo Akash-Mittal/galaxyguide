@@ -54,7 +54,7 @@ public class Credits implements BaseDomain {
     }
 
     public Credits() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
 }

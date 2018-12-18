@@ -45,6 +45,6 @@ public class Metal implements BaseDomain {
     }
 
     public Metal() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 }

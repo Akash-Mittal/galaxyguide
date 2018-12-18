@@ -19,7 +19,7 @@ import com.practise.galaxyguide.domains.RomanNumerals;
 public class RomanForeignLiteralValidator extends StringValidator {
 
     public RomanForeignLiteralValidator() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     public RomanForeignLiteralValidator(String input) {

@@ -24,7 +24,7 @@ public class Metals implements BaseDomain {
     }
 
     public Metals() {
-        // TODO Auto-generated constructor stub
+        // 
     }
 
     @Override
